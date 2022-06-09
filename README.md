@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Abhishek
 #### Developer, Programmer
-I am an enthusiastic learner and programmer. I love working on creative projects on latest technology and creating new stuff. 
+I am an enthusiastic learner and programmer. I love working on creative projects on latest technology and developing new stuff. 
 
 Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 
@@ -10,10 +10,12 @@ Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 - 🌱 I’m currently learning AI and ML 
 - 👯 I’m looking to collaborate on Machine learning and python based project 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-gits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhi-gits)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abhishek-gupta-10b386201/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-10b386201/) 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=300&lines=Welcome+to+my+repository...)](https://git.io/typing-svg)
@@ -24,6 +26,7 @@ Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,18 +50,24 @@ Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 #### Developer/ Forum
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 #### Framework/Platform/Libraries
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Editor
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
 
 
