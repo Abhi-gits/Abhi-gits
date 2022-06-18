@@ -2,6 +2,10 @@
 
 ### Hi there 👋, I am Abhishek
 #### Developer, Programmer
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=300&lines=Welcome+to+my+repository...)](https://git.io/typing-svg)
+
 I am an enthusiastic learner and programmer. I love working on creative projects on latest technology and developing new stuff. 
 
 Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
@@ -17,8 +21,6 @@ Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhi-gits)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-10b386201/) 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=300&lines=Welcome+to+my+repository...)](https://git.io/typing-svg)
 
 
 #### Language
