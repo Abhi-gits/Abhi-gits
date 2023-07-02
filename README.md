@@ -3,25 +3,26 @@
 ### Hi there 👋, I am Abhishek
 #### Developer, Programmer
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=300&lines=Welcome+to+my+repository...)](https://git.io/typing-svg)
 
-I am an enthusiastic learner and programmer. I love working on creative projects on latest technology and developing new stuff. 
+I am an enthusiastic learner and programmer. 
+
+I love working on creative projects on latest technology and developing new stuff. 
 
 Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning AI and ML 
-- 👯 I’m looking to collaborate on Machine learning and python based project 
+- 👯 I’m looking to collaborate on Machine learning and python based project
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-gits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Connect with me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhi-gits)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-10b386201/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-gits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 
+ <p align="center">
+   <a href="https://app.daily.dev/abhi_gits"><img src="https://api.daily.dev/devcards/72fac228ba4348f99d1469d53236a21f.png?r=tf6" width="400" alt="Abhishek Gupta's Dev Card"/></a>
+ </p>
+ 
 
 #### Language
 
@@ -70,6 +71,11 @@ Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+#### Connect with me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhi-gits)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-10b386201/) 
 
 
 
