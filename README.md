@@ -1,15 +1,36 @@
 # Abhi-gits
 
-### Hi there 👋, I am Abhishek
-#### Developer, Programmer
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/abhishek-gupta-g/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/@abhi-vlog?si=M8ALTtsA-igJcTwB">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+</div>
+
+  <img src="https://komarev.com/ghpvc/?username=Abhi-gits&style=flat-square&color=blue" alt=""/>
+
+
+
+  <h1>
+  hey there 👋, I am Abhishek
+
+
+</h1>
+
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=300&lines=Welcome+to+my+repository...)](https://git.io/typing-svg)
 
-I am an enthusiastic learner and programmer. 
+I am an enthusiastic learner, developer and programmer.
 
 I love working on creative projects on latest technology and developing new stuff. 
 
-Skills: PYTHON / C++ / C / REACT / DJANGO / JS / HTML / CSS
 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning AI and ML 
