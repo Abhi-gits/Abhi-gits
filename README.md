@@ -100,5 +100,5 @@ I love working on creative projects on latest technology and developing new stuf
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thankyou+For+Visting+,+Happy+Coding+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thankyou+For+Visting+,+Happy+Coding+...)](https://git.io/typing-svg)
 
