@@ -35,11 +35,7 @@ I love working on creative projects on latest technology and developing new stuf
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning AI and ML 
 - 👯 I’m looking to collaborate on Machine learning and python based project
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Abhi-gits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-gits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+    
  <p align="center">
    <a href="https://app.daily.dev/abhi_gits"><img src="https://api.daily.dev/devcards/72fac228ba4348f99d1469d53236a21f.png?r=tf6" width="400" alt="Abhishek Gupta's Dev Card"/></a>
  </p>
