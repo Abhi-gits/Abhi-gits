@@ -96,7 +96,7 @@ I love working on creative projects on latest technology and developing new stuf
 #### Connect with me
 
 [<img src='https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg' alt='github' height='40'>](https://github.com/Abhi-gits)
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-10b386201/) 
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-g/) 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thankyou+For+Visting+...)](https://git.io/typing-svg)
