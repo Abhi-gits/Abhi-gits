@@ -120,11 +120,6 @@ WebLogic · Splunk · AppDynamics · CloudWatch
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Editor
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-
 #### Connect
 
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-g/) 
