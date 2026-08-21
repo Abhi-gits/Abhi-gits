@@ -4,20 +4,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/abhishek-gupta-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/@abhi-vlog?si=M8ALTtsA-igJcTwB">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Abhi-gits&style=flat-square&color=blue" alt=""/>
-
-
 
   <h1>
-  hey there 👋, I am Abhishek
+  Hi, I'm Abhishek Gupta 👋
 
 
 </h1>
@@ -27,18 +20,61 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=300&lines=Welcome+to+my+repository...)](https://git.io/typing-svg)
 
-I am an enthusiastic learner, developer and programmer.
+I build practical software and AI solutions using Python, Machine Learning, Generative AI and cloud technologies.
 
-I love working on creative projects on latest technology and developing new stuff. 
+Currently working on production systems while building deeper expertise in AI engineering, GenAI applications and cloud-native development.
 
+---
 
-- 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning AI and ML 
-- 👯 I’m looking to collaborate on Machine learning and python based project
+## What I Build
+
+- 🤖 AI & GenAI Applications
+- 🧠 Machine Learning & NLP Solutions
+- ⚙️ Python APIs & Backend Systems
+- ☁️ Cloud & Containerized Applications
+- 📊 Data & ETL Pipelines
+- 🔐 Security & Production Monitoring
+
+---
+
+## Tech Stack
+
+- **AI / ML**
+  
+Python · TensorFlow · Scikit-learn · Pandas · NumPy · NLP · CNN · GenAI
+
+- **Backend**
+  
+FastAPI · Django · REST APIs
+
+- **Cloud / DevOps**
+  
+AWS · GCP · Docker · Kubernetes · CI/CD · Linux · Shell Scripting
+
+- **Data**
+  
+SQL · MySQL · MongoDB · ETL · Power BI
+
+- **Production / Security**
+  
+WebLogic · Splunk · AppDynamics · CloudWatch 
+
+---
     
  <p align="center">
    <a href="https://app.daily.dev/abhi_gits"><img src="https://api.daily.dev/devcards/72fac228ba4348f99d1469d53236a21f.png?r=tf6" width="400" alt="Abhishek Gupta's Dev Card"/></a>
  </p>
+
+ ---
+
+## Currently Building
+
+- AI Engineering
+- Agentic AI 
+- Production Ready AI Applications
+- Cloud Focused Deployment
+
+---
  
 
 #### Language
@@ -89,9 +125,8 @@ I love working on creative projects on latest technology and developing new stuf
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-#### Connect with me
+#### Connect
 
-[<img src='https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg' alt='github' height='40'>](https://github.com/Abhi-gits)
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-gupta-g/) 
 
 
