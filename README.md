@@ -22,7 +22,7 @@
 
 I build practical software and AI solutions using Python, Machine Learning, Generative AI and cloud technologies.
 
-Currently working on production systems while building deeper expertise in AI engineering, GenAI applications and cloud-native development.
+Currently working on production systems while developing AI engineering, GenAI application, and cloud-native development capabilities.
 
 ---
 
