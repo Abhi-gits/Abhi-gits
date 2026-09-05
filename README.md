@@ -58,12 +58,6 @@ SQL · MySQL · MongoDB · ETL · Power BI
 WebLogic · Splunk · AppDynamics · CloudWatch 
 
 ---
-    
- <p align="center">
-   <a href="https://app.daily.dev/abhi_gits"><img src="https://api.daily.dev/devcards/72fac228ba4348f99d1469d53236a21f.png?r=tf6" width="400" alt="Abhishek Gupta's Dev Card"/></a>
- </p>
-
- ---
 
 ## Currently Building
 
